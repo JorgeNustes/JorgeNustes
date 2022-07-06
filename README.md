@@ -1,6 +1,6 @@
 # Hi there 👋🏼 I am Jorge Nustes Andrade
 
-## I'm a Geophysicist (MSC.), Software Developer, Data Scientist, and Machine Learning Developer.
+## I'm a Geophysicist (MSc.), Software Developer, Data Scientist, and Machine Learning Developer.
 
 - 🔭 I’m currently working on ultrasound data processing using C++, C#, Python, and Matlab.
 - 🔭 In the past, I worked in microseismic monitoring, machine learning, fiber-optics, and computer vision.
